@@ -1,0 +1,9 @@
+D:\葉俊宏版\SpertroApp_20200717\SpertroApp\bin\Release\SpertroApp.exe.config
+D:\葉俊宏版\SpertroApp_20200717\SpertroApp\bin\Release\SpertroApp.exe
+D:\葉俊宏版\SpertroApp_20200717\SpertroApp\bin\Release\SpertroApp.pdb
+D:\葉俊宏版\SpertroApp_20200717\SpertroApp\obj\Release\SpertroApp.csprojAssemblyReference.cache
+D:\葉俊宏版\SpertroApp_20200717\SpertroApp\obj\Release\SpertroApp.Form1.resources
+D:\葉俊宏版\SpertroApp_20200717\SpertroApp\obj\Release\SpertroApp.Properties.Resources.resources
+D:\葉俊宏版\SpertroApp_20200717\SpertroApp\obj\Release\SpertroApp.csproj.GenerateResource.cache
+D:\葉俊宏版\SpertroApp_20200717\SpertroApp\obj\Release\SpertroApp.exe
+D:\葉俊宏版\SpertroApp_20200717\SpertroApp\obj\Release\SpertroApp.pdb
